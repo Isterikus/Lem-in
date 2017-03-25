@@ -1,0 +1,12 @@
+##start
+sta 5 0
+1 1 2
+2 9 2
+##end
+ed 5 4
+sta-1
+sta-2
+2-1
+#comm2
+ed-1
+2-ed
