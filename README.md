@@ -43,3 +43,5 @@ Then goes solution which mean:
 L4-3 == Ant number 4 goes to room 3.
 
 Each new turn is started from a newline.
+
+You can test valid and invalid maps from 'maps' folder.
